@@ -1,0 +1,40 @@
+LỜI CAM ĐOAN	ii
+LỜI CẢM ƠN	iii
+NHẬN XÉT CỦA GIÁO VIÊN HƯỚNG DẪN	iv
+NHẬN XÉT CỦA GIÁO VIÊN PHẢN BIỆN	v
+DANH MỤC HÌNH ẢNH	ix
+DANH MỤC BẢNG BIỂU	xi
+DANH MỤC TỪ VIẾT TẮT	xii
+LỜI NÓI ĐẦU	1
+CHƯƠNG 1: Tìm Hiêu về quản lý nhận sự	3
+
+CHƯƠNG 2: GIỚI THIỆU các ngôn ngữ lập trình ( Javacript, nodejs, C#, Entity framework, web API,SQL server) 
+
+CHƯƠNG 3: PHÂN TÍCH THIẾT KẾ HỆ THỐNG WEBSITE 	
+3.1. PHÂN TÍCH THIẾT KẾ HỆ THỐNG	
+3.1.1. Sơ đồ phân rã chức năng	
+3.1.2. Đặc tả chức năng	
+3.1.3. Biểu đồ luồng dữ liệu mức ngữ cảnh
+3.1.4. Biểu đồ luồng dữ liệu mức đỉnh	
+3.1.5. Biểu đồ luồng dữ liệu cho chức năng quản lý mục tiêu	
+3.1.6. Biểu đồ luồng dữ liệu cho chức nằn quản lý nhân viên	
+3.2. THIẾT KẾ DỮ LIỆU	
+3.2.1. Mô tả các thuộc tính của thực thể	
+3.2.2. Sơ đồ thực thể liên kết	
+3.2.3. Các bảng dữ liệu	
+CHƯƠNG 4: THIẾT KẾ GIAO DIỆN WEBSITE 	
+4.1. GIAO DIỆN CỦA QUẢN TRỊ VIÊN	
+4.1.1. Giao diện đăng nhập	
+4.1.2. Trang chủ	
+4.1.3. Quản lý mục tiêu	
+4.1.4. Quản lý nhân viên	
+4.1.5. Giao việc	
+4.1.6. Tiến độ thực hiện của nhân viên	
+4.1.7. Đánh giá	
+4.1.8. Tính lương	
+4.2. GIAO DIỆN CỦA NHÂN VIÊN
+4.2.1. Trang chủ	
+4.2.2. Thực hiện mục tiêu	
+4.2.3. Xem và cập nhật thông tin cá nhân	
+KẾT LUẬN	
+TÀI LIỆU THAM KHẢO	
